@@ -13,9 +13,9 @@ An introductory project to the Bourne-again Shell.
 
 * **5-listfilesdigitonly** - displays the current directory contents, including hidden files, in long format with the user and group IDs displayed numerically.
 
-* **6-firstdirectory** - creates a directory named `holberton` in the `/tmp/` directory.
+* **6-firstdirectory** - creates a directory named `my_first_directory` in the `/tmp/` directory.
 
-* **7-movethatfile** - moves the file `betty` from `/tmp/` to `/tmp/holberton`.
+* **7-movethatfile** - moves the file `betty` from `/tmp/` to `/tmp/my_first_directory`.
 
 * **8-firstdelete** - deletes the file `betty` in `/tmp/holberton`.
 
@@ -35,7 +35,7 @@ An introductory project to the Bourne-again Shell.
 
 * **101-clean_emacs** - deletes all files in the current working directory that end with the character `~`.
 
-* **102-tree** - creates the directories `welcome/`, `welcome/to/`, and `welcome/to/holberton/` in the current directory with less than two spaces in the script.
+* **102-tree** - creates the directories `welcome/`, `welcome/to/`, and `welcome/to/school/` in the current directory with less than two spaces in the script.
 
 * **103-commas** - lists all the files and directories of the current directory separated by commas with the specifications that: 
   * directory namaes should end with a slash
