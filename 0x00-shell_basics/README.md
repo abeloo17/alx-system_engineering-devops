@@ -1,7 +1,12 @@
 # 0x00. Shell, basics
 An introductory project to the Bourne-again Shell.
 ## Scrpit Descriptions:
-* **0-current_working_directory** -  prints the absolute path name of the current working directory.
+* **0-current_working_directory** - Write a script that prints the absolute path name of the current working directory.
+Example:
+
+`$ ./0-current_working_directory
+/root/alx-system_engineering-devops/0x00-shell_basics
+$`
 
 * **1-listit** - displays the contents list of the current directory.
 
